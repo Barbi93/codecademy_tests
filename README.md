@@ -1,1 +1,1 @@
-# codecademy_tests
+# codecademy projects
